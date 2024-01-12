@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-12T12:48:42 AEDT" name="Default suite" finished-at="2024-01-12T12:48:49 AEDT" duration-ms="7326">
+    <groups>
+    </groups>
+    <test started-at="2024-01-12T12:48:42 AEDT" name="Default test" finished-at="2024-01-12T12:48:49 AEDT" duration-ms="7326">
+      <class name="btvn.Buoi9_4">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:btvn.Buoi9_4@f0da945]" started-at="2024-01-12T12:48:42 AEDT" name="beforeTest" finished-at="2024-01-12T12:48:49 AEDT" duration-ms="7237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="f()[pri:0, instance:btvn.Buoi9_4@f0da945]" started-at="2024-01-12T12:48:49 AEDT" name="f" finished-at="2024-01-12T12:48:49 AEDT" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:btvn.Buoi9_4@f0da945]" started-at="2024-01-12T12:48:49 AEDT" name="afterTest" finished-at="2024-01-12T12:48:49 AEDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- btvn.Buoi9_4 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
